@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avian-principle-257512",
+  "private_key_id": "ca610ff195974e5179a19e80fb200faa5772a511",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUdBbjgfc80Ria\n950y1f5Y8vMHbuWPl3jTEUyIl8E/aR3vAMRLzUws6pwRTuTahoaFya650yYsSb2f\nGKax87/PH2JxDJjzgDopCeT1mIwGC5vh8bBgKGH7gjyfCGMoeKWdSzlG0dfQa4MY\n3XPPj2a5KAGrJFYQAE/worS7ES6WNVTT0+YP3RlHqXy6Zg1O/1DTAHiNmlbwVgl2\n/ZFwTI/7pvI4eL4YyG/hs2aOdffI04a2d+QOheETBW6KRgxckPY1+VGWLhrVnUi0\nIFEPT4/xOa5vrlqw35pL/u7Jv94ckjKQkL1JFSVZ67MH4bCs6C/XBltrLQX50gln\noLEbOJEpAgMBAAECggEAD00ezTsco36bcyUkfIHmkXaf/nf5ecvK7zKxVyt3htm1\n3EiVxVraIr2xSLAsseNworKe+QcQ2lg48LwzB0va/kUlpHw9M4PCTJcylxCp/GZ6\nJJNbugqL3LQpfw+41TRJQ0ikwv8VOCTXeo3lNnypb+pGd9JvDgnOYsepKh7yQsL0\nyttLTPrkdw5ZFDyBKyDahAW/evoAZixmIhQf1v+96v7PHAUG44rFliokXHoXa8f8\nTdZvHHbB76mFCU/2CKEYSPHMxTu4pF/ruzwfztaQIYdsEzqeleviOQb1ec/mXfIA\nXbL/OjnnZMJoEItnW90MZZGJmafeD695xtyaM3J4HQKBgQDqYHVTPEKFGH2/cFwe\nXIlldgXZMFRJto5r6QfK/OC47hMHInPkAOEt6xUz54Hsj04qefT86wIpx1Kb8OdG\nYE0WYawRus2zB3rn0vPnWMJxLfSxL0pxoPj5s5Ucn4pux91hotebljQrqq9AgF0r\nF92e3PmK92ia3L0pp3NWVU1npQKBgQDoDdfmlZCoFS8IDc8xClm8XXdknmYd2UN6\np5hpalGUowb6wYwpuN0RXKx/LFUAV/mlvHbrX+w+bgvLrfUiRc1412b1mLh4LevY\n2v+VlCnS/DAI6u4titRGKT8Dx+vRQ1JYxCPvnOo+RWQmHO+aZiLq+cFcxOplCUiE\noijN6y7sNQKBgCmH8CJQskTdYyLyKRCkOyCEemLTAoyRUcljYKMijjuWzD5eZ4TG\ndyBo4Lfy1P3zItm6BKRwjFCU5lmFpaW92MsXgaMeo+aOc8PyiI+9Fa9ygkKHa7yY\n1qWAofKRfrlEp0Du1x/VzObT9vwKAvho4TeOVpW+Y4XViZuA9ZodwXqVAoGBALcG\nRCUgDiokGyY1DhfV3BUPex2nOU+NjwVsrm9mZdXgB587jLtTjTkmaP8dDiXpPYQU\n846N550N2svY9qEDgR4wdop62/Qd9AjkIfXuGFbKhXBjK1xMRUTZP1RSGJLCkG5m\ntRlGIBLhVC4jYG/c4umF95ad0WnDOqkx5REUz7uJAoGAH1rn3u6de0p3AwURz5FI\n2vo2sWdErffStrrTP+GALfxqUZNtaKZVbo1MEatjF8FmTY2CgrrMrwnRbMfTqwr2\nnR18ZFZ+Yzspyga4KXaTdGYIrzJc2jKxFeRYs0vYmmvYf87E0RotLUiIlRm6Yqkf\nhQ063pBWQYUFGmElJGmArxk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travel-assistance@avian-principle-257512.iam.gserviceaccount.com",
+  "client_id": "107747631763638549454",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travel-assistance%40avian-principle-257512.iam.gserviceaccount.com"
+}

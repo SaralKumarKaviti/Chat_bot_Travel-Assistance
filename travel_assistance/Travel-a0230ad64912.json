@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avian-principle-257512",
+  "private_key_id": "a0230ad64912dcc55187e6c74d6269605a0c1679",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0Ulbd08hUJGft\nW/sSszfMQ97pxq6/jY6kR3cm98uGtfJXw4ytExYiGmugOCcx9iQ7J/PXl/bAOvBT\nu7Xi8xkMsxDcOH7Z3JnUZdRUueDNueF1ojkpD7noDklGoz45SXLJ60CUaD+rn5eI\n4E6dnopQXNyzwT3t5y2ywnFmOBvPOBxKIUlM+RlRkFGU6qHDrDcdocIjjYAcMHAE\n7m34sPpnuSTf5bPBx4SaD87k2F53KkwqOz+kavSemqv/zIswfVXaJyI6sxm1AuMo\nMrzhDo1P8oCw+Bcym9oGq996+6flXerTAq6xmDS+VvO9KGNHI92DDhblFrjjHZlI\nioifL1P3AgMBAAECggEAWApzuy7x+pMj4vIr7f9u2N6ycbW+EGyPHop+FJqb1pPz\nVQJ3JvHQtqnrrnh8OpqRKgjht3vM0CJ2wIs/zSUgL+El9D/pP3nD6b4mI4/1wLxm\n5kZkXjX9cN24zTJa6SGBWDDygQM9QxBSrlPGTpLfuUj9wQ4yrHtZBpSFRYFToqJR\nWRWYN7QuwbAkjKv1rKFq+VZxi8LW6qxHIx6Ws1610nCoQoNwqjgF+c/+65xP/a47\n2CELYFHmW64fZ+tCDyZnr7lyULrbnz7DDeoEOpne7ZhQsp6Rn/xgaFhQyXTSayQI\n9CDvlfEFgpXmdls1M/Qpcx7o4FWuDa9EYJDqpanEAQKBgQDy9aMDp0Nhn5gR+e6A\ndDc3lRWdD6R7FhA1Apuqw99crPg65tXj/Le4UMNGlr5k0nzmY9AVI++wh0yPzJbo\n8Bd3p5lfA4nCcEMBNMCL2nRDYSBc8SqrJPWTjWmsWn9SJcEcXJlEowfxQx9s8Q5P\nu9YcGm9N1UrAwbnTgpTGWCi9AQKBgQC+AAhNYaNsu0ZtbP5yjwlIWQ+mZW6nkOSc\nv31DOwxEKacVLqbJoMxFr+36Bv/I42ZCy0KC7bGyKk96QOrD6hW2VoPTW+wiXlDp\nzVK3ZbIiUZXIEm/9g5Ot0X+SC/GLFIKcsrht9EDGZ5agy/4T/7dRoaUbFsCzkjv2\nKWE+cMj49wKBgQCPnv8XSMf/LI2DiuAfFRQTClE1gCq2DCvWek01HAaszR8MCqrD\n0/9yuGNHFhNEnFzzAGvgI1csXj62/rTyzALDW9LBJOFJjH0/eESeJ6v0rLSp3HJh\nqz50U/L0zKZZFDJcpqx/s3QdfZVVHAZeweXmxQWo1/4RhjNoQdfajADBAQKBgQC0\nF0XHSv/jZRNZTxFTNp7e04QQ/V3IOH9oz9yEaCi1RyHW4xQ2U1Krzxjrf8zc9iYM\ns6rEfVaMAKy6vWOI9Y1E+nYTVbLZ1LovEm4P5bXV76zgKhG6owfMnqGjpex6HqO6\nsXA80GLBbJiKqzCWdjClkGj15zgaPUbWidxhmff0ewKBgHgs51CvI0x0wKt5Aypo\n1tEu/pMwT3vnuTiKYGlnKLgXwfkTxzlgDQIHgRUw3ZNmP+YlwuF1ymt0rDBzATtx\nnhWbIrLMU1ggqUX0UfPETv9jZIZ2maF7ZgMSUx1EHIlzUEcWijtx9jniADxUgl5/\nPeFeJLCGT1C0Kby4DFGzKNCN\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-integrations@avian-principle-257512.iam.gserviceaccount.com",
+  "client_id": "103167380890142734196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-integrations%40avian-principle-257512.iam.gserviceaccount.com"
+}
